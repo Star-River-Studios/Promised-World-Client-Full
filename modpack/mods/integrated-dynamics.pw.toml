@@ -1,0 +1,17 @@
+filename = '[动态联合]integrateddynamics-1.21.1-neoforge-1.30.3-1469.jar'
+name = 'Integrated Dynamics'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.21.1-1.30.3-1469'
+
+[download]
+hash = 'a266b096fe9b3bf8d54d8c005375f0a162650292e45c48bc4af5d7869ae83a583b5afc19fb32da38a966172b7d3dce4b151f19e1f22b7a526c2e7db0cb9f1ba1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/yYzdQHJI/versions/bWq90EQs/integrateddynamics-1.21.1-neoforge-1.30.3-1469.jar'
+
+[update.modrinth]
+mod-id = 'yYzdQHJI'
+version = 'bWq90EQs'

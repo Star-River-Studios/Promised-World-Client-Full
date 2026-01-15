@@ -1,0 +1,17 @@
+filename = '[动态联合][集成终端]integratedterminals-1.21.1-neoforge-1.6.23.jar'
+name = 'Integrated Terminals'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21.1-1.6.23'
+
+[download]
+hash = '6658829090bde20f0960eb9574aae4f340e01b17d2dc921677c29e3ebc429b59bdfbc3a67a4477486e892307df23bb923cec89c006adb5dc6907cfc30f989acb'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/HmLJoQ1K/versions/lR3Com6h/integratedterminals-1.21.1-neoforge-1.6.23.jar'
+
+[update.modrinth]
+mod-id = 'HmLJoQ1K'
+version = 'lR3Com6h'
