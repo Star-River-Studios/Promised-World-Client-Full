@@ -6,7 +6,7 @@ hash = "bdf090af13032025e41fb8a0cc8ed436d18592de0ad2dfb0cf6f856f2a015f46"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "13c5c454b796db1af35850746ca6add2937bb7f6229c5915a11d2ec485b4d37d"
+hash = "1a8046a04fb077f062f4139279aae64ecb3891f694451de8fc2d189e27604510"
 
 [[files]]
 file = "config/fml.toml"
@@ -973,9 +973,4 @@ metafile = true
 [[files]]
 file = "tacz/hell-divers2-gun-pack.pw.toml"
 hash = "3af0280c6fa399ed012a9f23441472736aa00c18304e210f725ccb8064b48db0"
-metafile = true
-
-[[files]]
-file = "tacz/immersive-armorer-gun-pack.pw.toml"
-hash = "9884906a417d00e08f85ce46aa0a44ae3457ec4236cd3d686a45dca04286f12a"
 metafile = true
