@@ -6,7 +6,11 @@ hash = "bdf090af13032025e41fb8a0cc8ed436d18592de0ad2dfb0cf6f856f2a015f46"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "1a8046a04fb077f062f4139279aae64ecb3891f694451de8fc2d189e27604510"
+hash = "f3594703ddfeac1347461dfc5e4146fe536c58706711462e5659b66f34404de0"
+
+[[files]]
+file = "config/emi.css"
+hash = "2e2906e7a7847a815a5b9675f6b1cab6b8d47868c2a4aba24fba51133d0195ec"
 
 [[files]]
 file = "config/fml.toml"
@@ -370,6 +374,16 @@ metafile = true
 [[files]]
 file = "mods/dumplings-delight-rewrapped.pw.toml"
 hash = "072611581ca8c02a7d07c996fe5d27df09ef61ff89f8d4c44dad710e4e661f3b"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "1565eabb6f7513c3480f0fe2d89ae5b35a78220540c699bc964d688f3e662717"
+metafile = true
+
+[[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "2baf7308bf9c969b7a7b1fb6c4295523d4e982bc30a67e1ecc547faba638165c"
 metafile = true
 
 [[files]]
